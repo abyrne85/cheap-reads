@@ -1,0 +1,15 @@
+.Books__Book {
+  background-color: #f1f1f1;
+  padding: 1em;
+  margin-bottom: 2em;
+  display: flex;
+  align-items: flex-start;
+}
+
+.Books__Book h3 {
+  margin-top: 0px;
+}
+
+.Book__Cover {
+  margin-right: 1em;
+}

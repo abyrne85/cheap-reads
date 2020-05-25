@@ -1,0 +1,11 @@
+{
+  "/books": {
+    "target": "https://www.goodreads.com",
+    "secure": false,
+    "changeOrigin": true,
+    "logLevel": "debug",
+    "pathRewrite": {
+      "^/books": "https://www.goodreads.com"
+    }
+  }
+}
